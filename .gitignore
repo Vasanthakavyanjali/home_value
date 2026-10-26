@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+models/*
+outputs/figures/*
+outputs/metrics/*
+!models/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/metrics/.gitkeep
